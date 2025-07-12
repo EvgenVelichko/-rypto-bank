@@ -2,7 +2,7 @@
   "name": "crypto-bank",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/EvgenVelichko/Crypto-bank",
+  "homepage": "https://github.com/EvgenVelichko/сrypto-bank",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
