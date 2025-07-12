@@ -3,7 +3,7 @@ import Layout from './components/Layout';
 import HomePage from './components/HomePage';
 import MiningPage from './components/MiningPage';
 import RatesPage from './components/RatesPage';
-
+import ShopPage from './components/ShopPage';
 
 function App() {
   const [currentPage, setCurrentPage] = useState('home');
